@@ -1,4 +1,4 @@
-# Clean Sisense DbFarme
+# Clean Sisense DbFarm
 
 ```
 Important note: running this will require Sisense downtime for 2-15 minutes.
